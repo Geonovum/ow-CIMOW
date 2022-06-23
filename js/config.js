@@ -4,7 +4,7 @@ var respecConfig =
   specStatus: "GN-WV",
   specType: "IM",
   license: "cc-by-nd",
-  publishDate: "2022-06-03",
+  publishDate: "2022-06-23",
   authors: [
     {
       name: "DSO project 33",
@@ -24,5 +24,5 @@ var respecConfig =
   github: "https://github.com/Geonovum/ow-CIMOW/",
   issueBase: "https://github.com/Geonovum/ow-CIMOW/issues/",
   edDraftURI: "https://Geonovum.github.io/ow-CIMOW/",
-  generatedSubtitle: "Werkversie 3 juni 2022"
+  generatedSubtitle: "Werkversie 23 juni 2022"
 }
